@@ -29,3 +29,12 @@ During the enhancement process, I learned the importance of commenting on my cod
 
 Enhancment One [Repository](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Enhancement-One)
 
+### Enhancement Two
+
+This project is a software automation testing software created in CS-320 to test a management system that allows the user to add, delete, update, and retrieve information. The original project used a linear search and an Array List to search up the contact IDs. Now the artifact uses a HashMap to find the contactId ID. 
+
+I have decided to include this artifact in my ePortfolio because it was one of my few projects I had that used an algorithm. The artifact algorithm shows my ability to understand different types of algorithms and their strengths. My artifact was improved by using a HashMap instead of an Array List which allowed me to improve the speed and efficiency of the lookup of contact IDs.
+
+As I was creating this, I learned about how to implement features from already existing applications. Usually, I have to create an application from scratch and so to change and existing application means that I already have to understand the existing application fully. I did not face any challenges on my enhancement and was able to enhance it quite smoothly.
+
+Enhacement Two [Repository](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Enhancement-Three)

@@ -18,3 +18,14 @@ Overall, my ePortfolio shows my skills in software design, secure coding, algori
 My code review are presentations of my projects that were used for my enhancment and explain what the various enhancement are.
 
 Code review [link](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Code-review)
+
+### Enhancement One
+
+My artifact is a mobile app created in CS-360 during the final project. This app has two screens for the user to interact with. The first screen allows the user to create an account and log in to it. Once the user logs in, it takes them to the second screen. The second screen is an inventory screen. It shows a blank table that shows items the user adds. The user can input an item name and quantity and once they do they can press a + button to add the item to the table. They can also delete the item by pressing the delete button next to the item in the table. They can also edit item names and quantities in the table. Finally, there is a notification system that the user can turn on that gives them a notification when a specific items stock is low.
+
+I have chosen this artifact because it was one of my projects that took a lot of learning and time to create. This artifact was more complex and more advanced compared to my other projects, and so I wanted to showcase this artifact. This artifact shows my skills in mobile development and security. The whole app used a mobile app development program, which requires me to learn about mobile development. My login screen showcases the security measures I have taken to make sure that only users with proper login credentials can access the app. The artifact was improved by adding a profile system that only shows their specific table to that specific account. I have also fixed the issue where the user can add characters in the quantity field.
+
+During the enhancement process, I learned the importance of commenting on my code. Before enhancing the project, I didn’t comment on the code fully which left me wondering what some code did. This took more time than expected which made me learn that I should add comments next time I create a project. One challenge I faced was with relearning some of the features. I have forgotten a little bit of the course and so I had to search for some code documentation to complete the enhancement process.
+
+Enhancment One [Repository](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Enhancement-One)
+

@@ -16,4 +16,5 @@ Overall, my ePortfolio shows my skills in software design, secure coding, algori
 
 ### Code review
 My code review are presentations of my projects that were used for my enhancment and explain what the various enhancement are.
-Code review [link]([url](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Code-review))
+
+Code review [link](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Code-review)

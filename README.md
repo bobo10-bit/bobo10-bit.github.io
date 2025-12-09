@@ -37,4 +37,14 @@ I have decided to include this artifact in my ePortfolio because it was one of m
 
 As I was creating this, I learned about how to implement features from already existing applications. Usually, I have to create an application from scratch and so to change and existing application means that I already have to understand the existing application fully. I did not face any challenges on my enhancement and was able to enhance it quite smoothly.
 
-Enhacement Two [Repository](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Enhancement-Three)
+Enhacement Two [Repository](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Enhancement-Two)
+
+### Enhancment Three
+
+This artifact was a CRUD application created in CS-340 as my second project. This application is used to manage data for animal shelters. This application is used to create, delete, update, and read animal data from MongoDB. This application originally used Apport to access MongoDB, but I do not have access to Apporto. This means that I do not have access to MongoDB or the animal records, so instead I have added mock data to represent the data from the database.
+
+I have included this artifact in my ePortfolio because it shows my understanding of databases. It requires me to display and manipulate data from the database, which requires me to understand the various functions of databases. The component that specifically showcases my ability is showing the map, pie chart, and filtering functions in the application. This artifact originally used a Jupyter notebook to display the database map, pie chart, and database records. So to improve this artifact, I used the Dash library instead of the Jupyter Dash library to show the application in a webpage instead of a Jupyter cell. 
+
+As I was enhancing and modifying the artifact, I learned about adapting to changes required for the application to work. At first, I tried to access the MongoDB database for the data and tried to implement my enhancement with it, but I gave up on this and adapted my strategy to instead use mock data. One challenge I had was making sure that the original code worked properly with the new code I have implemented.
+
+Enhancement Three [Repository](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Enhancement-Three)

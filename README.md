@@ -12,7 +12,7 @@ In CS-320, I improved an application by replacing an ArrayList with a HashMap. T
 
 In CS-340, I turned a Jupyter notebook dashboard into a web-based Dash app using mock data. This made the app easier to use for more people and showed that I can work with data in different ways. I learned how to filter, sort, and organize data for users and how to change a project so it can run in a new environment. This project also helped me practice thinking about how software works for different users and devices.
 
-Overall, my ePortfolio shows my skills in software design, secure coding, algorithms, data management, and web development. The projects demonstrate not only what I have learned but also how I can use this knowledge to make programs better and more useful. These experiences helped me learn how to work on teams, solve problems, and create software that is safe, efficient, and reliable. My goal is to keep learning and improving as a developer, focusing on making software that is fast, secure, and easy for people to use.
+Overall, my ePortfolio shows my skills in software design, secure coding, algorithms, data management, and web development. The projects demonstrate not only what I have learned, but also how I can use this knowledge to make programs better and more useful. These experiences helped me learn how to work on teams, solve problems, and create software that is safe, efficient, and reliable. My goal is to keep learning and improving as a developer, focusing on making software that is fast, secure, and easy for people to use.
 
 ### Code review
 My code review are presentations of my projects that were used for my enhancment and explain what the various enhancement are.

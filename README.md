@@ -48,3 +48,5 @@ I have included this artifact in my ePortfolio because it shows my understanding
 As I was enhancing and modifying the artifact, I learned about adapting to changes required for the application to work. At first, I tried to access the MongoDB database for the data and tried to implement my enhancement with it, but I gave up on this and adapted my strategy to instead use mock data. One challenge I had was making sure that the original code worked properly with the new code I have implemented.
 
 Enhancement Three [Repository](https://github.com/bobo10-bit/bobo10-bit.github.io/tree/Enhancement-Three)
+
+ePortfolio [Link](https://github.com/bobo10-bit/bobo10-bit.github.io)

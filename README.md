@@ -1,3 +1,4 @@
+theme: Architect
 # CS 499-ePortfolio
 ## Computer Science Capstone -Made by Christopher Wilson
 

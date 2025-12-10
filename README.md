@@ -1,6 +1,3 @@
-# CS 499-ePortfolio
-## Computer Science Capstone -Made by Christopher Wilson
-
 ### Introduction
 Hello, my name is Christopher Wilson, and I have been in SNHU's computer science program for three years. During this time, I have built a solid foundation in communicating with stakeholders, software engineering, algorithms, databases, and secure coding. My coursework and ePortfolio show how I have grown as a developer and prepared to work in the field. I have gained hands-on experience designing applications, improving performance, managing data, and keeping systems secure.
 
